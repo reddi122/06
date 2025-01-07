@@ -1,0 +1,58 @@
+The Software Development Life Cycle (SDLC) is a systematic process for developing software that ensures high quality and efficiency. It consists of several stages, each focusing on a specific aspect of the software development process. Here's an overview:
+
+1. Requirement Analysis
+Objective: Gather and analyze business and technical requirements.
+Activities:
+Identify stakeholders and gather requirements.
+Document requirements in an SRS (Software Requirements Specification) document.
+Define project scope and objectives.
+Key Output: SRS document.
+2. Planning
+Objective: Create a roadmap for the project.
+Activities:
+Define resources, timelines, and budget.
+Identify risks and mitigation strategies.
+Choose technology stack and tools.
+Key Output: Project plan.
+3. System Design
+Objective: Design the architecture and detailed solution.
+Activities:
+Create high-level and detailed designs (HLD and LLD).
+Define data flow, system architecture, and user interfaces.
+Prepare prototypes or wireframes.
+Key Output: Design documents.
+4. Implementation (Development)
+Objective: Build the software based on design specifications.
+Activities:
+Write code according to the defined requirements and design.
+Perform unit testing during development.
+Key Output: Source code and working modules.
+5. Testing
+Objective: Ensure the software is free of defects and meets requirements.
+Activities:
+Conduct various testing types (unit, integration, system, and user acceptance testing).
+Log, fix, and retest bugs.
+Key Output: Test cases, defect reports, and a validated software product.
+6. Deployment
+Objective: Deliver the software to the production environment.
+Activities:
+Deploy the software in a live environment.
+Provide user training and documentation.
+Set up monitoring and support systems.
+Key Output: Deployed software.
+7. Maintenance
+Objective: Ensure the software continues to meet user needs.
+Activities:
+Monitor performance and resolve issues.
+Implement enhancements and updates.
+Address security vulnerabilities.
+Key Output: Updated and maintained software.
+SDLC Models
+Common SDLC models include:
+
+Waterfall Model (linear and sequential).
+Agile Model (iterative and collaborative).
+Spiral Model (risk-focused).
+V-Model (verification and validation).
+Iterative Model (incremental improvements).
+Would you like more details about a specific phase or SDLC model?
